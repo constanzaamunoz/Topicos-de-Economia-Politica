@@ -1,2 +1,2 @@
-# T-picos-de-Econom-a-Pol-tica
+# Topicos-de-Economia-Politica
 Desarrollo del trabajo del curso Tópicos de Economía Política
